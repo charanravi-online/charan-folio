@@ -18,12 +18,12 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Charan R
-  description: "Your friendly neighborhood, tech enthusiast!"
+  description: "Your friendly neighborhood, tech enthusiast \U0001F44B"
   keywords: [Blog, Portfolio, Data Science]
   author: Charan R
   # author: ["Me", "You"] # multiple authors
   #images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "January 2, 2023"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
@@ -48,8 +48,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Welcome! \U0001F44B"
-    subtitle: "Your friendly neighbourhood, tech enthusiast!"
+    title: "Charan R"
+    subtitle: "Your friendly neighbourhood, tech enthusiast \U0001F44B"
     imageUrl: "images/dp.jpeg"
     imageWidth: 180
     imageHeight: 180
@@ -62,8 +62,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome! \U0001F44B"
-    Content: "Your friendly neighborhood, Tech enthusiast!"
+    Title: "Charan R \U0001F44B"
+    Content: "Your friendly neighborhood, Tech enthusiast \U0001F44B"
 
   socialIcons:
     
