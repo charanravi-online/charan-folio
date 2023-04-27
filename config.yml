@@ -53,7 +53,7 @@ params:
     imageUrl: "images/dp.jpeg"
     imageWidth: 180
     imageHeight: 180
-    imageTitle: "Data Professor"
+    imageTitle: "Charan R Image"
     buttons:
       - name: Blogs
         url: blogs
@@ -68,11 +68,11 @@ params:
   socialIcons:
     
     - name: github
-      url: "https://github.com/dataprofessor"
+      url: "https://github.com/charanravi-online"
     - name: linkedin
-      url: "https://www.linkedin.com/in/chanin-nantasenamat/"
+      url: "https://www.linkedin.com/in/r-charan"
     - name: twitter
-      url: "https://twitter.com/thedataprof"
+      url: "https://twitter.com/iambrokendemon"
 
 
   analytics:
