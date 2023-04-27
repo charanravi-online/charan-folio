@@ -1,7 +1,7 @@
 ---
-title: "Infographics"
+title: "Music"
 date: 2022-04-09T23:15:00+07:00
-slug: infographics
+slug: music
 category:
 summary:
 description:
