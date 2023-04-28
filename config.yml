@@ -55,10 +55,10 @@ params:
     imageHeight: 180
     imageTitle: "Charan R Image"
     buttons:
-      - name: Blogs
-        url: blogs
       - name: Projects
         url: projects
+      - name: Resume
+        url: resume/CharanR-Resume.pdf
 
   # home-info mode
   homeInfoParams:
