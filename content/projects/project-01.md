@@ -1,6 +1,6 @@
 ---
 title: "Probing the origins of human acetylcholinesterase inhibition via QSAR modeling and molecular docking"
-date: 2022-04-04T23:15:00+07:00
+# date: 2022-04-04T23:15:00+07:00
 slug: acetylcholinesterase
 category: projects
 summary:

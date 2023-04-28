@@ -1,6 +1,6 @@
 ---
 title: "Music"
-date: 2022-04-09T23:15:00+07:00
+# date: 2022-04-09T23:15:00+07:00
 slug: music
 category:
 summary:

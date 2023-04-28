@@ -1,6 +1,6 @@
 ---
 title: "Towards reproducible computational drug discovery"
-date: 2022-04-06T23:15:00+07:00
+# date: 2022-04-06T23:15:00+07:00
 slug: reproducible-computational-drug-discovery
 category: projects
 summary:

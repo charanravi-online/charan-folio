@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2022-04-09T23:15:00+07:00
+# date: 2023-04-09T21:45:00+05:30
 slug: about
 category:
 summary:
@@ -14,20 +14,18 @@ showtoc: false
 draft: false
 ---
 
-In my daytime, I work as a Developer Advocate at a US Tech company. 
 
-At night, I'm a content creator developing tutorials in data science for the following platforms:
-- 📺 **YouTube**: [**Data Professor**](https://youtube.com/dataprofessor/), [**Coding Professor**](https://youtube.com/codingprofessor/)
-- 📝 [**Medium Blogs**](https://data-professor.medium.com/).
-- 💻 [**GitHub**](https://github.com/dataprofessor/)
 
-In my previous role, I was an Associate Professor of Bioinformatics carrying out research in computational drug discovery:
-- [**Google Scholar**](https://scholar.google.com/citations?user=df-l7zQAAAAJ&hl=en)
-- [**ORCID**](https://orcid.org/0000-0003-1040-663X)
-- [**SCOPUS**](https://www.scopus.com/authid/detail.uri?authorId=12039071300)
-- [**ResearchGate**](https://www.researchgate.net/profile/Chanin-Nantasenamat-2)
-- **GitHub**: [**chaninn**](https://github.com/chaninn/), [**chaninlab**](https://github.com/chaninlab/)
+Welcome to my About page! I'm Charan, a passionate Linux Enthusiast, open source contributor on GitHub, and a skilled Python programmer. I also have experience in Flutter, Selenium, and problem-solving and troubleshooting systems.
 
-You can also connect with me at the following social platforms:
-- [**Twitter**](https://twitter.com/thedataprof)
-- [**LinkedIn**](https://www.linkedin.com/in/chanin-nantasenamat/)
+I have a deep understanding of Linux and its ecosystem, and I love exploring different distributions and tools. I believe in the power of open source software and enjoy contributing to projects on GitHub, where I collaborate with developers from all over the world to create innovative solutions.
+
+In addition to my Linux expertise, I have experience building cross-platform mobile apps with Flutter and automating web testing with Selenium. I'm always eager to learn new technologies and apply them to solve real-world problems.
+
+My passion for technology is matched by my commitment to excellence. I strive to produce high-quality code and deliver exceptional results on every project. I'm a fast learner and a great communicator, and I enjoy working collaboratively with others to achieve a common goal.
+
+When I'm not programming, you can find me tinkering with new hardware, reading tech blogs, or participating in online communities related to Linux and open source. I'm always looking for ways to expand my knowledge and skills and to connect with others who share my passion for technology.
+
+Thanks for taking the time to read my About page. If you have any questions or would like to connect, feel free to get in touch.
+
+- [**LinkedIn**](https://www.linkedin.com/in/r-charan/)
