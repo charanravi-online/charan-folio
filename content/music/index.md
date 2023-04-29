@@ -22,5 +22,5 @@ When I'm not tweaking my repo, I compose music.
 3. Surpassed over 3,00,000 streams online.
 4. Peaked at **#61 Position on House: Armenia** charts on Apple Music.
 
-**[Listen to my music on your favorite music streaming/download platfrom]((https://songwhip.com/broken-demon))**
+**[Listen to my music on your favorite music streaming/download platfrom](https://songwhip.com/broken-demon)**
 
