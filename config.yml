@@ -124,6 +124,10 @@ menu:
       name: Music
       url: /music/
       weight: 3
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 3
     #- identifier: tags
     #  name: tags
     #  url: /tags/
