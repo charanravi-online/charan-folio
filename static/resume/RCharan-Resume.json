@@ -1,6 +1,6 @@
 {
     "basics": {
-        "name": "Charan R",
+        "name": "R Charan",
         "email": "charanravi.online@gmail.com",
         "phone": "+91 8971297535",
         "photo": {
@@ -47,13 +47,13 @@
             "items": [
                 {
                     "id": "fe280c61-9d92-4dba-8a08-274866470096",
-                    "url": "https://github.com/webosose/build-webos/releases/tag/v2.20.1",
+                    "url": "https://github.com/webosose/build-webos/",
                     "date": {
                         "end": "",
                         "start": "2021-10-01"
                     },
                     "name": "LG Soft India",
-                    "summary": "- Spearheaded the allocation, coordination, and management of a team to successfully release webOS OSE v2.20.1, ensuring project completion within established timelines and meeting all quality standards.\n- Contributed to the development of a comprehensive and clear test case for smoke testing on the Apollo project, resulting in more efficient and effective testing and overall project success.",
+                    "summary": "- Spearheaded the allocation, coordination, and management of a team to successfully release [webOS OSE v2.20.1](https://github.com/webosose/build-webos/releases/tag/v2.20.1), ensuring project completion within established timelines and meeting all quality standards.\n- Contributed to the development of a comprehensive and clear test case for smoke testing on the Apollo project, resulting in more efficient and effective testing and overall project success.",
                     "position": "Software Test Engineer"
                 }
             ],

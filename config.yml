@@ -1,6 +1,6 @@
 languageCode: en-us
 baseURL: "https://charanravi-online.github.io/"
-title: Charan R
+title: R Charan
 paginate: 5
 theme: PaperMod
 
@@ -17,10 +17,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Charan R
+  title: R Charan
   description: "Embedded Software Test Engineer | Data Analyst | Aspiring AI & ML Engineer \U0001F44B"
   keywords: [Blog, Portfolio, Data Science]
-  author: Charan R
+  author: R Charan
   # author: ["Me", "You"] # multiple authors
   #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2023"
@@ -32,7 +32,6 @@ params:
         favicon16x16:  "/favicon_io/favicon-16x16.png"
         favicon32x32:  "/favicon_io/favicon-32x32.png"
         apple_touch_icon:  "/favicon_io/apple-touch-icon.png"
-
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -48,28 +47,28 @@ params:
   tocopen: false
 
   label:
-    text: "Charan R"
+    text: "R Charan"
     icon: "images/coding.png"
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Charan R"
+    title: "R Charan"
     subtitle: "Embedded Software Test Engineer | Data Analyst | Aspiring AI & ML Engineer \U0001F44B"
     imageUrl: "images/dp.jpeg"
     imageWidth: 180
     imageHeight: 180
-    imageTitle: "Charan R Image"
+    imageTitle: "R Charan Image"
     buttons:
       - name: Projects
         url: projects
       - name: Resume
-        url: resume/CharanR-Resume.pdf
+        url: resume/RCharan-Resume.pdf
 
   # home-info mode
   homeInfoParams:
-    Title: "Charan R \U0001F44B"
+    Title: "R Charan \U0001F44B"
     Content: "Embedded Software Test Engineer | Data Analyst | Aspiring AI & ML Engineer \U0001F44B"
 
   socialIcons:
