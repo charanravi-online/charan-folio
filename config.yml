@@ -77,8 +77,8 @@ params:
       url: "https://github.com/charanravi-online"
     - name: linkedin
       url: "https://www.linkedin.com/in/r-charan"
-    - name: twitter
-      url: "https://twitter.com/iambrokendemon"
+    - name: email
+      url: "/contact"
 
 
   analytics:
