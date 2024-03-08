@@ -18,7 +18,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: R Charan
-  description: "Python Dev  |  ISTQB Certified Software Tester \U0001F44B"
+  description: "SDET | Automation Engineer " # \U0001F44B
   keywords: [Blog, Portfolio, Data Science]
   author: R Charan
   # author: ["Me", "You"] # multiple authors
@@ -55,7 +55,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "R Charan"
-    subtitle: "Python Dev  |  ISTQB Certified Software Tester \U0001F44B"
+    subtitle: "SDET | Automation Engineer " # \U0001F44B
     imageUrl: "images/dp.jpeg"
     imageWidth: 180
     imageHeight: 180
@@ -69,7 +69,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "R Charan \U0001F44B"
-    Content: "Python Dev  |  ISTQB Certified Software Tester \U0001F44B"
+    Content: "SDET | Automation Engineer " # \U0001F44B
 
   socialIcons:
     
@@ -140,7 +140,7 @@ menu:
     #  weight: 4
 
     #- identifier: example
-    #  name: example.org
+    #  name: example.org  
     #  url: https://example.org
     #  weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
